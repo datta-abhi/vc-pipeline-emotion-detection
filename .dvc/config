@@ -1,4 +1,5 @@
 [core]
-    remote = dvcstore
-['remote "dvcstore"']
-    url = s3://abhigyandvc
+    remote = myremote
+['remote "myremote"']
+    url = gdrive://1hpJ2FURE71BSSaUOMqNVwM-Q9XyOhv4S
+    gdrive_acknowledge_abuse = true
